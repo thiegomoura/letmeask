@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="Letmeask" src=".github/logo.svg" width="160px">
+</p>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
