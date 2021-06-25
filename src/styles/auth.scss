@@ -5,9 +5,15 @@
 }
 
 aside {
-  flex: 7;
+  flex: 5;
   background-color: #835afd;
   color: #fff;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  padding: 120px 80px;
 
   img {
     max-width: 320px;
